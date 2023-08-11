@@ -1,2 +1,2 @@
 // initial commit for feature 1
-console.log("commit 3")
+console.error("commit 3")
