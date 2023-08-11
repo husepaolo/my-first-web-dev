@@ -1,2 +1,1 @@
-// initial commit for feature 1
-alert("commit 3")
+console.log("feature 1")
